@@ -1,0 +1,18 @@
+nuevo proyecto...
+rtl proyect
+sig sig hasta defualt part
+
+
+revisar todo bine que esta en vhdl y no en verilog
+
+archivos a sources
+proyect sumary estado del proyecto
+desing runs error 
+
+derecho en desing sources, add source, buscar archivo en la carpeta, 
+	por ahora agregar P1a.vhd(aparece con reg -  behavioral)
+
+	para ver errore sde sintaxis solo con guardar el proyecto nuevamente, te marca en rojo que hay errores de sintaxis en un archivo en particular
+
+
+martin.ovazquez@gmail.com

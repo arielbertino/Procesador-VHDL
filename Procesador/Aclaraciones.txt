@@ -1,0 +1,1 @@
+Buenas, les envio dos versiones del procesador, una de ellas sin unidad de adelantamiento y la otra con esta unidad. Despues de probar y revisar bastante la unidad no pude encontrar el error, supongo que el codigo esta correcto. Desde ya mucha gracias
